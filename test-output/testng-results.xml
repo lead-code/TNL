@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="67" started-at="2021-05-09T19:20:22Z" finished-at="2021-05-09T19:20:22Z">
+  <suite name="Default suite" duration-ms="102" started-at="2021-05-11T12:59:29Z" finished-at="2021-05-11T12:59:29Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="67" started-at="2021-05-09T19:20:22Z" finished-at="2021-05-09T19:20:22Z">
-      <class name="tipphalconfreemium.TC002_POST_Request">
-        <test-method status="PASS" signature="RegistrationSuccesfull()[pri:0, instance:tipphalconfreemium.TC002_POST_Request@cc285f4]" name="RegistrationSuccesfull" duration-ms="22" started-at="2021-05-10T00:50:22Z" finished-at="2021-05-10T00:50:22Z">
+    <test name="Default test" duration-ms="102" started-at="2021-05-11T12:59:29Z" finished-at="2021-05-11T12:59:29Z">
+      <class name="tipphalconfreemium.TC001_GET_Request">
+        <test-method status="PASS" signature="getReguest()[pri:0, instance:tipphalconfreemium.TC001_GET_Request@cc285f4]" name="getReguest" duration-ms="39" started-at="2021-05-11T18:29:29Z" finished-at="2021-05-11T18:29:29Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- RegistrationSuccesfull -->
-      </class> <!-- tipphalconfreemium.TC002_POST_Request -->
+        </test-method> <!-- getReguest -->
+      </class> <!-- tipphalconfreemium.TC001_GET_Request -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

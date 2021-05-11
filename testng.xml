@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="tipphalconfreemium.TC002_POST_Request"/>
+      <class name="tipphalconfreemium.TC001_GET_Request"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
